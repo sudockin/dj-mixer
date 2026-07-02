@@ -4,6 +4,8 @@
 
 ### Two decks. Real beatmatching. Zero installs. It's all in your browser.
 
+[![DJ Mixer — a two-deck browser DJ console](hero.png)](https://sudockin.github.io/dj-mixer/)
+
 **[▶ &nbsp;TRY IT LIVE &nbsp;→ &nbsp;sudockin.github.io/dj-mixer](https://sudockin.github.io/dj-mixer/)**
 
 ![no build](https://img.shields.io/badge/build-none-2fd483?style=flat-square)
@@ -20,19 +22,12 @@ Paste a **YouTube link**, an **audio URL**, drop in an **MP3/WAV**, or hit a **b
 ## ✨ What it does
 
 🎚️ **Two decks, four sources** — YouTube · audio URL · local file · generated beat loops
-
 🌊 **Live waveforms + BPM** — automatic detection, tap-tempo fallback
-
 🤖 **Beatmatching that holds** — SYNC with continuous phase-lock + **Auto-sync**; beat grid, drift meter, nudge
-
 🎧 **Real mixing controls** — cue, 1/2/4/8-bar loops, quantize, smooth/linear/cut crossfader curves, pitch
-
 📚 **A library with a memory** — auto-saves everything you play; search, favorites, history, drag & drop
-
 📋 **Queue** — queue next, reorder, auto-advance
-
 🔎 **Discover** — Discogs-powered "more like this" crate-digging → send picks straight to a deck
-
 📱 **Mobile-ready** — landscape console, touch controls, safe-area aware
 
 ## 🚀 Try it
