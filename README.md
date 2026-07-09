@@ -22,14 +22,23 @@ Paste a **YouTube link**, an **audio URL**, drop in an **MP3/WAV**, or hit a **b
 ## ✨ What it does
 
 🎚️ **Two decks, four sources** — YouTube · audio URL · local file · generated beat loops
+
 💿 **CDJ decks + jog wheels** — spinning platters, CDJ CUE/PLAY, a stacked A/B beatmatch waveform
+
 🎛️ **DJM central mixer** — per-channel EQ kills (HI/MID/LO), vertical faders + VU meters, PFL, crossfader curves
+
 🌊 **Live waveforms + BPM** — automatic detection, tap-tempo fallback
+
 🤖 **Beatmatching that holds** — SYNC with continuous phase-lock + **Auto-sync**; beat grid, drift meter, nudge
+
 🎧 **Cue & loops** — set/jump cue, 1/2/4/8-bar loops, quantize, pitch
+
 📚 **A library with a memory** — auto-saves everything you play; search, favorites, history, drag & drop
+
 📋 **Queue** — queue next, reorder, auto-advance
+
 🔎 **Discover** — Discogs-powered "more like this" crate-digging → send picks straight to a deck
+
 📱 **Mobile-ready** — landscape console, touch controls, safe-area aware
 
 ## 🚀 Try it
